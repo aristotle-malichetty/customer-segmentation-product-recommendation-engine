@@ -1,4 +1,6 @@
-# Acme Innovations Data Science Project
+# Customer Segmentation and Product Recommendation for ACME Innovations
+![Customer Segmentation Product Recommendation engine](https://github.com/user-attachments/assets/b7fc385a-34e2-44a7-86fb-ef218aec4b55)
+
 ## Project Overview
 This repository contains the Data Science project for Acme Innovations, a legacy household name facing declining customer retention rates. This project is part of the Data Mining and Business Intelligence course in the Master's program. The project aims to leverage advanced data science techniques to understand customer behavior, identify growth opportunities, optimize marketing strategies, and enhance customer retention.
 ## Academic Context
