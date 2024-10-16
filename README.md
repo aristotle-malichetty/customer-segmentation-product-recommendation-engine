@@ -6,17 +6,21 @@ This repository contains the Data Science project for Acme Innovations, a legacy
 ## Academic Context
 
 Course: Data Mining and Business Intelligence
+
 Program: Master's Degree in Business Analytics
+
 Institution: University of New Haven
+
 Semester: 2nd Semester
 
 ## Repository Structure
 
-- Proposal_for_Acme_Innovations.pdf: Detailed project proposal document
-- Final_Project.R: R code for data analysis and modeling
-- customer_data.csv: Dataset containing customer information (not included in repository)
-- customer_purchase_history_final.csv: Dataset containing customer purchase history (not included in repository)
-- README.md: This file, providing an overview of the project
+- Proposal for Acme Innovations.pdf: Detailed project proposal document
+- Presentation for ACME Innovations.pdf: Presentation document
+- Customer Segmentation - Product Recommendation Project.R: R code for data analysis and modeling
+- customer_data.csv: Dataset containing customer information (not included in the repository)
+- customer_purchase_history_final.csv: Dataset containing customer purchase history (not included in the repository)
+- README.md: This file, provides an overview of the project
 
 ## Project Highlights
 ### Data Catalyst Consultancy
@@ -55,8 +59,8 @@ Motto: Catalyzing Growth through Data
 ## How to Use This Repository
 
 1. Clone the repository to your local machine.
-2. Review the Proposal_for_Acme_Innovations.pdf for a detailed project overview and methodology.
-3. Examine the Final_Project.R file for the complete data analysis and modeling process.
+2. Review the **Proposal for Acme Innovations.pdf** for a detailed project overview and methodology.
+3. Examine the **Customer Segmentation - Product Recommendation Project.R** file for the complete data analysis and modeling process.
 4. Ensure you have R and the required packages installed (see Dependencies section).
 5. Place the customer_data.csv and customer_purchase_history_final.csv files in the appropriate directory.
 6. Run the R script to reproduce the analysis and generate insights.
