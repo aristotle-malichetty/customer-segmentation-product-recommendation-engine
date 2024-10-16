@@ -15,6 +15,7 @@ Semester: 2nd Semester
 
 ## Repository Structure
 
+- Project_Introudction.pdf: Detailed Explanation of the project and the deliverables
 - Proposal for Acme Innovations.pdf: Detailed project proposal document
 - Presentation for ACME Innovations.pdf: Presentation document
 - Customer Segmentation - Product Recommendation Project.R: R code for data analysis and modeling
